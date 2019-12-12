@@ -10,6 +10,7 @@ function App() {
         <p>
           Mycological Research Institute
         </p>
+        <p>Coming Soon...</p>
       </header>
     </div>
   );
